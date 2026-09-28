@@ -24,7 +24,7 @@ My name is Nguyễn Hồng Nam. I am an undergraduate student at Hanoi Universit
 ### 📬 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/saturina/)
-- [GitHub](https://github.com/saturina0611)
+- [GitHub](https://github.com/hongnam207)
 - [Youtube](https://www.youtube.com/@82diemtsa)
 
 <h3>🛠 Tech Stack</h3>
